@@ -6,7 +6,7 @@ function describe_emacs
   function before_all
     set -g __emacs_current_editor $EDITOR
     set -g __emacs_load_file $fish_path/plugins/emacs/emacs.load
-    set -g __emacs_functions e ec ek et ecd eeval efile eframe emacs emasc emcas
+    set -g __emacs_functions e ec ed ek et ecd eeval efile eframe emacs emasc emcas
   end
 
   function before_each
