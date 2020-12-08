@@ -16,13 +16,14 @@ Benefits are multiple
   * You can share opened buffered across opened frames.
   * Configuration changes made at runtime are applied to all frames."
 
+This particular version has been modified to use [Fisher](https://github.com/jorgebucaran/fisher).
 
 ### Usage
 
 To use this plugin, install it as:
 
 ```bash
-omf install emacs
+fisher install pymander/plugin-emacs
 ```
 
 ### Requirements
